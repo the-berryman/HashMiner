@@ -6,7 +6,7 @@ import hashlib
 from multiprocessing.queues import Empty
 import ctypes
 
-NUM_PROCESSES = 50
+NUM_PROCESSES = 40
 NONCE_LENGTH = 10
 
 
