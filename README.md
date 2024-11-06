@@ -127,9 +127,8 @@ This ensures:
 ## Contributing
 
 Contributions welcome! Please feel free to submit a Pull Request.
-```
 
-```markdown
+
 # GPU SHA-256 Hash Miner
 
 A high-performance CUDA-based SHA-256 hash mining tool optimized for NVIDIA RTX 3090. Features multi-stream processing, automatic compiler setup, and comprehensive GPU monitoring.
